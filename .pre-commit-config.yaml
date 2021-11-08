@@ -1,0 +1,12 @@
+repos:
+  - repo: https://github.com/ambv/black
+    hooks:
+      - id: black
+
+  - repo: https://gitlab.com/pycqa/flake8
+    hooks:
+      - id: flake8
+
+  - repo: https://github.com/timothycrosley/isort
+    hooks:
+      - id: isort
