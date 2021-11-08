@@ -1,1 +1,5 @@
 # core dependencies (what the project really uses, without secondary dependencies) go here
+numpy
+pandas
+scikit-image
+tensorflow
